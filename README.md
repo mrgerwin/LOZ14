@@ -6,7 +6,7 @@ This lesson will add in player projectiles and refactor the enemy kill code.  Pl
 You will also have to download the SwordProjectile.png and Sound File that is used in the updated python_functions file.
 
 Video - YouTube - https://www.youtube.com/watch?v=k89tX2x6ODs  
-Video - EdPuzzle -  
+Video - EdPuzzle - https://edpuzzle.com/media/5f29e978e1988f3f94faea9c   
 Slides - https://docs.google.com/presentation/d/1OMyTD70hD2oaYTg25cnfO9hCi0bYwpg47WzEEhoMv1I/edit?usp=sharing   
 
 Extension -  
