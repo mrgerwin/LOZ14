@@ -5,9 +5,9 @@ This lesson will add in player projectiles and refactor the enemy kill code.  Pl
 
 You will also have to download the SwordProjectile.png and Sound File that is used in the updated python_functions file.
 
-Video - YouTube - 
-Video - EdPuzzle -
-Slides - https://docs.google.com/presentation/d/1OMyTD70hD2oaYTg25cnfO9hCi0bYwpg47WzEEhoMv1I/edit?usp=sharing  
+Video - YouTube - https://www.youtube.com/watch?v=k89tX2x6ODs  
+Video - EdPuzzle -  
+Slides - https://docs.google.com/presentation/d/1OMyTD70hD2oaYTg25cnfO9hCi0bYwpg47WzEEhoMv1I/edit?usp=sharing   
 
 Extension -  
 1. Only allow Link to throw the sword if his health is equivalent to his current max_Health.
